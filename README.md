@@ -9,10 +9,6 @@
 
 -------------------------------------------
 
-### HACKRIETJ - 2021 : https://drive.google.com/drive/folders/1z07QwXz0iZ1WLURSt5E35pX7Gko0dmpZFI6ANBzSWAwvqQkQUbWk2yOIZs5dBVNb4yepFtqN
-
--------------------------------------
-
 ### HACKRIETJ - 2022 : https://drive.google.com/drive/folders/1uTzkXvZKjtoToC75PXUCFZg7uACgzOnyZpQDs2GeQFfIh47TA0wcmCmsJr1a5vt-8cZgF2Sl
 
 --------------------------------------
